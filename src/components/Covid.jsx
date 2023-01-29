@@ -31,7 +31,7 @@ function Covid() {
             <div class="header">
                 <h2 className='title'>COVID-19 CORONAVIRUS TRACKER</h2>
                 <div class="image-container">
-                    <img id="#covid-19" class="image" src="./img/covid.png" />
+                    <img id="#covid-19" class="image" src="./img/covid.png" alt="Covid19"/>
                     <span class="shadow"></span>
                 </div>
             </div>
