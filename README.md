@@ -1,3 +1,20 @@
+<h1>📊 Covid-19 Live Dashboard 📊</h1>
+<p>
+  This project provides real-time updates on the status of the Covid-19 pandemic around the world. The dashboard is designed to be stylish and visually appealing, making it easy to keep track of the latest developments. It features six blocks to display country-specific information, including recovered cases, confirmed cases, deaths, active cases, and the last time the data was updated.
+</p>
+<p>
+  The dashboard fetches data from a Covid-19 API, ensuring that the information displayed is up-to-date and accurate. To create a smooth user experience, the project is developed using React JS. The web page is designed to be user-friendly and intuitive, making it easy to understand the information being presented.
+</p>
+<p>
+  Whether you are a healthcare professional, a concerned citizen, or simply interested in staying informed about the pandemic, this project provides a convenient and reliable source of information. With its attractive design and live updates, you can stay up-to-date on the latest developments in the Covid-19 pandemic, no matter where you are.
+</p>
+<p style="font-size: 20px; font-weight: bold;">💻 Stay informed with the Covid-19 Live Dashboard 💻</p>
+<p> <strong>Application Link:</strong> <a href='https://63d64c71d8d83e00092a941e--beamish-horse-87908d.netlify.app/' target="_blank">https:/covid19_live-dashboard.netlify.app/</a> </p>
+
+<hr>
+<br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
