@@ -18,7 +18,7 @@ Live statistics and coronavirus news tracking the number of confirmed cases, rec
 
 2. Navigate to the project directory:
    ```bash
-    cd react-todo-app 
+    cd Covid19_LiveDashboard
    ```
    
 3. Install dependencies:
