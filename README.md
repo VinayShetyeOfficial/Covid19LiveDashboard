@@ -6,7 +6,7 @@
 ### Links
 
 Live Site URL: [Preview](https://roaring-madeleine-d58d48.netlify.app/)
-
+ 
 ### Description
 Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, and death toll by country due to the COVID-19 coronavirus from Wuhan, China. Coronavirus counter with new cases, historical data, and info.
 
